@@ -8,7 +8,7 @@ body {
 .congrz {
   width: calc(100% - 30%);
   font-weight: bold;
-  background-color: red;
+  background-color: green;
   z-index: 2;
   position: absolute;
   left: 50%;
